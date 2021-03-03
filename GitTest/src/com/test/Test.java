@@ -11,7 +11,7 @@ public class Test {
 	
 	public static void displayGreeting() {
 		System.out.println("testing main");
-		System.out.println("wow..");
+		System.out.println("1..wow..");
 	}
 	
 
